@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**MLAW-223/MLAW-223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm an ICT Application Development student with a strong focus on backend systems, cloud infrastructure, and secure networking. My academic path combines software development with practical infrastructure and security skills.
 
-Here are some ideas to get you started:
+🛠️ Technical Focus
+Primary Language: Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cloud Platforms: AWS (hands-on lab experience)
+
+Networking: Cisco Packet Tracer labs, network design & security principles
+
+Core Interests: Cloud architecture, cybersecurity, and application development
+
+📚 Current Learning
+Building and deploying Java applications
+
+Designing and simulating networks in Packet Tracer
+
+Implementing cloud solutions on AWS
+
+Studying network security fundamentals
+
+🔧 Projects & Labs
+I regularly work on:
+
+Java application projects
+
+AWS cloud infrastructure labs
+
+Network configuration and security simulations in Packet Tracer
+
+🎯 Goal
+To become a proficient developer who can build secure, scalable applications with a deep understanding of the underlying cloud and network infrastructure.
+
+Always building, always learning.<!--
