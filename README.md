@@ -32,4 +32,4 @@ Network configuration and security simulations in Packet Tracer
 🎯 Goal
 To become a proficient developer who can build secure, scalable applications with a deep understanding of the underlying cloud and network infrastructure.
 
-Always building, always learning.<!--
+Always building, always learning.
